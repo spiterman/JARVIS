@@ -1,6 +1,6 @@
 # Turning ChatGPT into J.A.R.V.I.S
 
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/g4sCZhKykg1z2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iron-man-robert-downey-jr-g4sCZhKykg1z2">via GIPHY</a></p>
+<img src="https://y.yarn.co/f6f54cfe-d3d0-4574-a0a2-7dca5ab216fe_text.gif" width="100%" height="100%"/>
 
 I've always wanted a personal assistant like Tony Stark's JARVIS.
 
